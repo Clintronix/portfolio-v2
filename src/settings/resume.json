@@ -8,17 +8,17 @@
         "x_title": "Hello, I'm",
         "job1": "Web",
         "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "description": "Hello, I'm Clinton. Always down for something new and challenging! I'm here to help you create beautifully formatted websites.",
         "summary": "based in Oregon",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "keywords": "personal,website,portfolio,template,kit,mark,tan,,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "#",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
             "city": "Newport",
             "country": "Oregon",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "countryCode": "USA",
+            "region": ""
         },
         "profiles": [
             {
@@ -35,25 +35,25 @@
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "",
+                "url": "https://github.com/",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
+                "username": "",
+                "url": "https://gitlab.com/",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "mark",
+                "url": "https://t.me/mark",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "taniyow#9142",
+                "username": "#9142",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
