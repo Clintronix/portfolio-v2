@@ -6,7 +6,7 @@
         "phone": "(XXX) XXX-XXXX",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
+        "job1": "Designer",
         "job2": "Developer",
         "description": "Hello, I'm Clinton. Always down for something new and challenging! I'm here to help you create beautifully formatted websites.",
         "summary": "based in Oregon",
@@ -23,39 +23,21 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "clintronix@gmail.com",
+                "url": "mailto:clintronix@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "Clinton Cregger",
+                "url": "https://www.linkedin.com/in/clinton-cregger-69a24ba9/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "",
-                "url": "https://github.com/",
+                "username": "Clinton Cregger",
+                "url": "https://github.com/Clintronix",
                 "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "",
-                "url": "https://gitlab.com/",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
-                "network": "Telegram",
-                "username": "mark",
-                "url": "https://t.me/mark",
-                "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "#9142",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
             }
         ]
     },
